@@ -58,7 +58,7 @@ My research interest includes:
 ### 计算机设计大赛
 ---
 - *2022.5*  荣获 `省级二等奖` 2022年(第15届)四川省大学生计算机设计大赛，微课赛道作品《惊破霓裳羽衣曲》.
-- *2023.8*  荣获 `省级二等奖、国家级二等奖` 2023年(第16届)中国大学生计算机设计大赛，微课赛道作品《Python之约瑟夫问题》<a href="[http://https://www.guc.edu.cn/](https://www.bilibili.com/video/BV1Gq421P7go/?spm_id_from=333.337.search-card.all.click)"><img class="svg" src="/images/约瑟夫小人.png" width="23pt">.
+- *2023.8*  荣获 `省级二等奖、国家级二等奖` 2023年(第16届)中国大学生计算机设计大赛，微课赛道作品《Python之约瑟夫问题》<a href="https://www.bilibili.com/video/BV1Gq421P7go"><img class="svg" src="/images/约瑟夫小人.png" width="23pt">.
 - *2023.8*  荣获 `省级二等奖、国家级三等奖` 2023年(第16届)中国大学生计算机设计大赛，Web应用与开发赛道作品《汽车气味智能预警系统》.
 - *2024.5*  荣获 `省级二等奖` 2024年(第17届)四川省大学生计算机设计大赛，物联网赛道作品《扑识-基于人体姿态识别的骨折康复训练辅助系统》.
 - ...
